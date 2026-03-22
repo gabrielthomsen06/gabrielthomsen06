@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Current focus: **Data pipelines, orchestration, data quality, and analytics-ready modeling**
-- 🧰 Main stack: **Python, SQL/PLSQL, Oracle, Apache Airflow, dbt, Docker, Linux**
+- 🧰 Main stack: **Python, SQL/PLSQL, Oracle, Apache Airflow, dbt, Airbyte, Docker, Linux**
 - 📊 Also work with: **Power BI, APIs, Git/GitHub**
 - 📫 How to reach me: **gabrielthomsen08@gmail.com**
 
