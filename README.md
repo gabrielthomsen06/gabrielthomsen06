@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel Thomsen André</h1>
-<h3 align="center">Data Engineer → Sales Intelligence | Python • SQL • Airflow • dbt • React</h3>
+<h3 align="center">Data Engineer | Python • SQL • Airflow • dbt • React</h3>
 <p align="center">
   I build data pipelines, automate workflows, and develop full-stack applications focused on analytics and business intelligence.
 </p>
 
-- 🔭 Current focus: **Sales Intelligence, data pipelines, and full-stack side projects**
+- 🔭 Current focus: **Data pipelines, and full-stack side projects**
 - 🧰 Main stack: **Python, SQL/PLSQL, Oracle, Apache Airflow, dbt, Docker, Linux**
 - 🌐 Also build with: **FastAPI, React (TypeScript), PostgreSQL, Power BI, Git**
 - 📫 Reach me at: **gabrielthomsen08@gmail.com**
