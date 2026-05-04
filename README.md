@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Thomsen André</h1>
-<h3 align="center">Data Engineer | Python • SQL • Airflow • dbt • React</h3>
+<h3 align="center">Data Engineer | Python • SQL • Airflow • dbt </h3>
 <p align="center">
   I build data pipelines, automate workflows, and develop full-stack applications focused on analytics and business intelligence.
 </p>
