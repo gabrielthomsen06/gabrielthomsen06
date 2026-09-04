@@ -11,15 +11,6 @@
 - 📍 Joinville, SC, Brazil
 - 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/gabrielthomsen06) · gabrielthomsen08@gmail.com
 
-## Selected projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [macro-diario](#) | Automated daily financial newsletter: ingests market data, generates the summary with an LLM and delivers it by email | Airflow · FastAPI · PostgreSQL · Claude API |
-| [dbt-bigquery-pipeline](#) | End-to-end ELT with staging/marts modeling, tests and documentation | dbt · BigQuery · SQL |
-| [minhagrana](#) | Personal finance tracker with a Telegram bot for entry and a dashboard for analysis | FastAPI · PostgreSQL · Streamlit |
-| [tse-lake](#) | Extracts and processes Brazilian electoral open data into an analytics-ready layer | Python · SQL |
-
 <!-- Replace each (#) with the repo URL. Keep this table to 3-5 repos and pin the same ones on your profile. -->
 
 <h3 align="left">Languages and Tools:</h3>
